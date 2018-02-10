@@ -8,5 +8,5 @@ class Book
     @title
   end
 
-  attr_accessor :author, :page_count
+  attr_accessor :author, :page_count, :genre
 end
