@@ -1,3 +1,5 @@
 # Make your shoe class here!
-class Book(title)
+class Book
+  def initialize(title)
+  end
 end
